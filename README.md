@@ -39,7 +39,7 @@ dataset: [Dry Bean Dataset](https://www.kaggle.com/datasets/muratkokludataset/dr
 
 Selanjutnya uraikanlah seluruh variabel atau fitur pada data. Sebagai contoh:  
 
-### Variabel-variabel pada Heart Failure Prediction Dataset adalah sebagai berikut:
+### Variabel-variabel pada Dataset adalah sebagai berikut:
 Informasi Atribut:
 
 - Area (A): Area zona Biji Kering dan jumlah piksel di dalam batas-batasnya.
