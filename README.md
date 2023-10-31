@@ -90,6 +90,13 @@ Kolom 'ShapeFactor1', 'ShapeFactor2', 'ShapeFactor3', 'ShapeFactor4' yang tidak 
 ```bash
 df = df.drop(['ShapeFactor1', 'ShapeFactor2', 'ShapeFactor3', 'ShapeFactor4'], axis=1)
 ```
+Cek korelasi antar atribut:
+![image](https://github.com/fauzann221/dry_bean_klasifikasi/assets/149223860/e2fcea47-f728-4b6a-a1d9-64762f30b92a)
+
+Visualisasi data jumlah biji kering:
+
+![image](https://github.com/fauzann221/dry_bean_klasifikasi/assets/149223860/31b3b8a4-8c5b-4125-b95c-b00c3fb071de)
+
 
 ## Modeling
 1. Menentukan X dan Y
